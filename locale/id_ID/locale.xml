@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * File: plugins/generic/scholarWidget/locale/id_ID/locale.xml
+  -->
+ 
+<locale name="id_ID" full_name="Bahasa Indonesia">
+	<message key="plugins.generic.scholarWidget.displayName">Widget Sitasi Google Scholar</message>
+	<message key="plugins.generic.scholarWidget.description">Menampilkan statistik sitasi dari Google Scholar dengan opsi pengaturan posisi dan tampilan</message>
+	
+	<message key="plugins.generic.scholarWidget.settings.description">Konfigurasikan pengaturan widget sitasi Google Scholar untuk jurnal Anda.</message>
+	<message key="plugins.generic.scholarWidget.settings.scholarUserId">Google Scholar User ID</message>
+	<message key="plugins.generic.scholarWidget.settings.scholarUserIdRequired">Google Scholar User ID wajib diisi.</message>
+	<message key="plugins.generic.scholarWidget.settings.widgetTitle">Judul Widget</message>
+	<message key="plugins.generic.scholarWidget.settings.widgetPosition">Posisi Widget di Sidebar</message>
+	<message key="plugins.generic.scholarWidget.settings.displayOptions">Opsi Tampilan</message>
+	<message key="plugins.generic.scholarWidget.settings.showHIndex">Tampilkan h-index</message>
+	<message key="plugins.generic.scholarWidget.settings.showI10Index">Tampilkan i10-index</message>
+	<message key="plugins.generic.scholarWidget.settings.showCitationBar">Tampilkan Bar Sitasi per Tahun</message>
+</locale>
