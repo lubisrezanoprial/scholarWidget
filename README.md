@@ -1,0 +1,2 @@
+# scholarWidget
+OJS 3
